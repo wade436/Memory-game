@@ -1,0 +1,50 @@
+.score-board {
+
+    width: 350px;
+    height: 155px;
+    margin-left: 35%;
+    margin-top: -3%;
+    padding-bottom: 2%;
+
+}
+
+
+
+
+
+.borderoutline {
+    border-radius: 12px;
+    border-color: white;
+    border-style: solid;
+}
+
+.innerdiv1 {
+    display: flex;
+    justify-content: space-around;
+}
+
+
+.innerdiv2 {
+    display: flex;
+    justify-content: space-around;
+}
+
+img {
+    margin-top: 15px;
+    height: 100px;
+    width: 100px;
+    border-radius: 7px;
+    padding: 3px;
+
+
+}
+
+.pokediv {
+    margin-top: 30px;
+    padding-top: 60px;
+}
+
+footer {
+margin-top: 30px;
+    font-size: small;
+}
